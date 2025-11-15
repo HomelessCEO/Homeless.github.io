@@ -1,4 +1,7 @@
 # Homeless.github.io
+# Homeless Token
+#"The Token that will change lives"
+A Stellar-based token built on the Stellar blockchain.
 
 ## About
 
