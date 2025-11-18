@@ -2,7 +2,8 @@
 # Homeless
 "The Token that will change lives"
 A Stellar-based token built on the Stellar blockchain.
-![Homeless Token Logo](./homeless2_logo.png)
+![Homeless Token Logo](./<img width="608" height="677" alt="homelesszenhan1_logo" src="https://github.com/user-attachments/assets/e18171b3-a4b0-46a4-b8d8-92651d953a61" />
+
 ## About
 
 
