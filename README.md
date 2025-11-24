@@ -4,7 +4,8 @@
 A Stellar-based token built on the Stellar blockchain.
 ![Homeless Token Logo](./<img width="608" height="677" alt="homelesszenhan1_logo" src="https://github.com/user-attachments/assets/e18171b3-a4b0-46a4-b8d8-92651d953a61" />
 
-## About
+## About 
+"The Homeless Token is designed to support homeless communities,build better housing, feed, and clothes by providing a transparent way to donate and track charitable contributions on the Stellar blockchain. This token enables direct peer-to-peer transactions with minimal fees."
 
 
 ## Token Details
@@ -25,7 +26,7 @@ issuer = "GDKSAFCZI3U4SIZAFGY2QWTOC7DFZJGDGSBC6VLSPFYLOII24W6KFUNS"
 
 display_decimals = 7
 
-name = "Homeless Token"
+name = "Homeless"
 
 desc = "  Homeless Token is dedicated to supporting homeless initiatives and community outreach programs. Homeless Token was born from a simple, painful reality: 
         too many people fall through the cracks, and the world moves on like nothing happened. This token exists to make sure those people are never ignored again.
@@ -58,4 +59,4 @@ is_asset_anchored = false
 
 status = "live"
 
-The Homeless Token is designed to support homeless communities,build better housing, feed, and clothes by providing a transparent way to donate and track charitable contributions on the Stellar blockchain. This token enables direct peer-to-peer transactions with minimal fees.
+
