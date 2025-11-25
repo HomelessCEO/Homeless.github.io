@@ -15,8 +15,8 @@ VERSION="2.0.0"
 [DOCUMENTATION]
 ORG_NAME="Homeless"
 ORG_DBA="Organization DBA"
-ORG_URL="https://www.Homeless.HCC.github.io"
-ORG_LOGO="https://www.github.io/#1homelesscoin.logo.png"
+ORG_URL="https://homeless-hcc.github.io"
+ORG_LOGO="https://homeless-hcc.github.io/#1homelesscoin.logo.png"
 ORG_DESCRIPTION="supporting homeless initiatives and community outreach programs."
 ORG_PHYSICAL_ADDRESS=" Prattville,_Alabama,_36066,_ America "
 ORG_PHYSICAL_ADDRESS_ATTESTATION="https://www.domain.com/address_attestation.jpg"
@@ -24,7 +24,7 @@ ORG_PHONE_NUMBER="1 _298_263_4786"
 ORG_PHONE_NUMBER_ATTESTATION="https://www.domain.com/phone_attestation.jpg"
 ORG_KEYBASE="accountname"
 ORG_TWITTER="orgtweet"
-ORG_GITHUB="Homeless.Hcc.github.io"
+ORG_GITHUB="Homeless-HCC"
 ORG_OFFICIAL_EMAIL="homelesscoin2025@gmail.com"
 
 [[PRINCIPALS]]
@@ -68,5 +68,5 @@ conditions="There will only ever be 333,000,000,000 HCC in existence.
             HCC Coin is not backed by a physical asset or precious metal, 
             HCC Coin value is only attached to the trust provided by the network's users and the loyal, loving, Homeless commuity that supports the cause."
 			
-image="https://#1homelesscoin.logo.png"
+image="https://homeless-hcc.github.io/#1homelesscoin.logo.png"
 fixed_number=
