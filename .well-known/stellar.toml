@@ -5,7 +5,7 @@ AUTH_SERVER="https://api.domain.com/auth"
 TRANSFER_SERVER="https://api.domain.com"
 SIGNING_KEY="GDKSAFCZI3U4SIZAFGY2QWTOC7DFZJGDGSBC6VLSPFYLOII24W6KFUNS"
 	        
-HORIZON_URL="https://horizon.stellar.org."
+HORIZON_URL="https://horizon.stellar.org"
 ACCOUNTS=[
 "Issuer_Key=GDKSAFCZI3U4SIZAFGY2QWTOC7DFZJGDGSBC6VLSPFYLOII24W6KFUNS",
 
@@ -18,7 +18,7 @@ VERSION="2.0.0"
 ORG_NAME="Homeless"
 ORG_DBA="Organization DBA"
 ORG_URL="https://Homeless.HCC.github.io"
-ORG_LOGO="https://.github.io/#1homelesscoin.logo.png"
+ORG_LOGO="https://homeless-hcc.github.io/#1homelesscoin.logo.png"
 ORG_PHYSICAL_ADDRESS="Prattville,_Alabama_36066_America"
 ORG_PHYSICAL_ADDRESS_ATTESTATION=
 ORG_OFFICIAL_EMAIL="homelesscoin2025@gmail.com"
@@ -84,5 +84,5 @@ conditions="There will only ever be 333,000,000,000 HCC in existence.",
             "HCC Coin is not backed by a physical asset or precious metal",
             "HCC Coin value is only attached to the trust provided by the network's users and the loyal, 
             loving, Homeless commuity that supports the cause."
-image="https://www.github.io/#1homelesscoin.logo.png"
+image="https://homeless-hcc.github.io/#1homelesscoin.logo.png"
 fixed_number="333,000,000,000"
